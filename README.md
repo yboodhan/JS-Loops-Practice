@@ -88,7 +88,9 @@ Rewrite Question 3, but with the reduce iterator.
 
 ### Bonus 2
 
-Take the logic you came up with in question 5 and genericize it into a function that accepts author and the books array as parameters. Put this solution in the file called `problem6.js` in the `js` folder. Here is some starter code for you:
+Have you learned functions yet? If not, now is a great time to get a head start!
+
+Take the logic you came up with in question 5 and genericize it into a function that accepts author and the books array as parameters. Put this solution in the file called `bonus2.js` in the `js` folder. Here is some starter code for you:
 
 ```javascript
 function findAuthorsBookCount(allBooks, authorName){

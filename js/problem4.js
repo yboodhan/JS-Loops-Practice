@@ -1,3 +1,4 @@
+// Feel free to add a few of your favorites!
 var books = [
   { title: "Stranger in a Strange Land", author: "Robert Heinlein"},
   { title: "The Moon is a Harsh Mistress", author: "Robert Heinlein"},
@@ -9,8 +10,4 @@ var books = [
   { title: "Do Androids Dream of Electric Sheep", author: "Phillip K. Dick"}
 ]
 
-books.forEach(function(book){
-  console.log(book["title"])
-  // Also, an alternative way of doing the same thing:
-  console.log(book.title) // <-- prints the same as line above it
-})
+// Your code here

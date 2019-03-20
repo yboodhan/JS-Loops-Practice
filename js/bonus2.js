@@ -1,11 +1,5 @@
 function findAuthorsBookCount(allBooks, authorName){
-  var totalBooksByAuthor = 0
-  allBooks.forEach(function(book) {
-    if (book.author == authorName) {
-      totalBooksByAuthor++
-    }
-  });
-  return totalBooksByAuthor
+  // Your code here
 }
 
 var author1 = "Kurt Vonnegut"
