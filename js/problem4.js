@@ -10,4 +10,6 @@ var books = [
   { title: "Do Androids Dream of Electric Sheep", author: "Phillip K. Dick"}
 ]
 
-// Your code here
+books.forEach((book) => {
+  console.log(book.title);
+})

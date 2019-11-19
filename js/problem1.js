@@ -1,5 +1,5 @@
 var names = ["Bob", "Sally", "Jane", "Jim", "Taylor", "Pat"]
 
-names.forEach(function(name) {
-  console.log(name)
+names.forEach((name) => {
+  console.log(name);
 })
